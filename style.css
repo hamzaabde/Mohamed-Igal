@@ -1,0 +1,44 @@
+html {
+	margin: 0;
+	padding: 0;
+}
+
+#main {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	align-content: center;
+	font-family: sans-serif;
+	background-color: #aaa;
+	color: #222;
+	font-size: 1.2vw;
+}
+
+#main img {
+	width: 100%;
+	max-width: 100%;
+	margin-bottom: 10px;
+}
+
+header {
+	align-content: center;
+	width: 60vw;
+	text-align: center;
+}
+
+ul {
+	display: flex;
+	flex-direction: column;
+	align-items: start;
+	margin: auto;
+}
+
+h2 {
+	text-align: center;
+}
+
+h1 {
+	font-family: Arial;
+}
+
